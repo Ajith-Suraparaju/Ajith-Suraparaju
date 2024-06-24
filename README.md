@@ -1,10 +1,14 @@
-# Hello, I'm Ajith Suraparaju <br/><a href="https://github.com/ajith-suraparaju">Data Engineer</a></h1>
+# Hello, I'm Ajith Suraparaju <br/><a href="https://github.com/ajith-suraparaju">Data Engineer</a></h1> 
+Experienced and certified Data Engineer with a strong foundation in designing, implementing, and optimizing batch and streaming data pipelines. Proficient in various technologies, including Python, SQL, Apache Spark, Databricks, and Microsoft Azure. Skilled in ensuring operational stability, data quality, and compliance throughout the data pipeline process. Adept at collaborating with cross-functional teams to deliver data-driven solutions that enhance decision-making processes and drive business growth. 
 
+# Contact me
 <a href="mailto:ajith1997raju@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:2163345668"><img src="https://img.shields.io/badge/-Telephone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ajith-suraparaju/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </h1>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+# Languages and Tools</a>
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
@@ -27,5 +31,17 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
 </p>
+
+# Experience </a>
+
+**Data Engineer at Vega Techno Systems**
+
+**Brief Overview**
+
+
+
+**Solution Architecture**
+
+![GIF](https://media.licdn.com/dms/image/D4E22AQE7dZmkAFFJ3g/feedshare-shrink_1280/0/1698074850766?e=1721865600&v=beta&t=nRRsu2UfWlT7XsEdLzeivoHlosWjpfnWudZLiiNwGgk)
 
 
