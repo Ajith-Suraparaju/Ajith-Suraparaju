@@ -66,4 +66,10 @@ Experienced and certified Data Engineer with a strong foundation in designing, i
 
 ![GIF](https://media.licdn.com/dms/image/D4E22AQE7dZmkAFFJ3g/feedshare-shrink_1280/0/1698074850766?e=1721865600&v=beta&t=nRRsu2UfWlT7XsEdLzeivoHlosWjpfnWudZLiiNwGgk)
 
+## CO-Curricular & Extracurricular Activities
+- Volunteer for Sigmoid 2018 and 2019, a Computer Science and Engineering branch technical event.
+- Captain of the National Athletic team for the National Athletic Meet.
+- Won the Gold medal in the Triple Jump at the National Athletic Meet.
+
+
 
