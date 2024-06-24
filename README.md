@@ -44,22 +44,26 @@ Experienced and certified Data Engineer with a strong foundation in designing, i
 
 ## Experience </a>
 
+**Project 2: Data Pipeline Optimization Specialist**
+- Designed and implemented data pipelines using Azure Data Factory and Databricks, cutting processing time by 35%, and utilized Python and Azure Cloud services for efficient data processing and transformation.
+- Collaborated with developers, tech leads, and stakeholders to gather data requirements, resulting in the design and deployment of data solutions aligned with business needs. This collaborative effort boosted project delivery efficiency. Proficient in software development methodologies, including waterfall and agile, ensuring flexibility and adaptability in data solution development.
+- Implemented data security measures, reducing security incidents by 20%, and used Cloud Composer/Airflow and Dataflow/Data Fusion for process automation and data validation, enhancing data governance.
+- Analyzed complex data structures and designed large-scale pipelines. It improved ETL efficiency by 40% using Teradata utilities. Engaged in agile activities and user story grooming to refine data workflows.
+- Created data visualizations and reports with MicroStrategy and Tableau, aiding decision-making and strategic planning. Addressed industry-specific challenges in the Health Care/PBM domain, improving data accuracy and reporting speed by 25%.
+
 **Project 1: ETL Process Engineer**
 
 - In the Banking Domain, tasked with developing and automating a comprehensive monthly reporting system for credit card offers and usage.
 - This initiative aimed to meet client demands for detailed insights into issued credit cards, offers distributed, and user utilization patterns.
 - Leveraging Azure Data Factory, I orchestrated data extraction and transfer from DB2 databases to Azure Data Lake Storage, ensuring seamless integration of customer, credit card, offer, and product information.
 - As the project evolved, I transitioned to Databricks and Apache Spark for advanced data transformations, employing Spark SQL and data frames to enhance efficiency and scalability.
-- Collaborating closely with visualization experts using MicroStrategy, I ensured that insights were communicated effectively.
+- Collaborating closely with visualization experts using MicroStrategy ensured that insights were communicated effectively.
 - Daily responsibilities included optimizing data pipelines, monitoring performance, and implementing automation using tools like Autosys while maintaining rigorous documentation to support data governance and strategic decision-making.
 - This role underscored my proficiency in leveraging cutting-edge technologies to deliver robust data solutions in a dynamic banking environment.
 
-**Project 2: ETL Process Engineer**
-
-
-
 **Brief Overview**
 
+The project overview utilized a step-by-step approach leveraging Azure technologies to optimize data workflows. Beginning with Azure Data Factory, orchestrated seamless data pipelines for ingestion data from On-Premises and transformation. Utilizing Azure Databricks, enhanced data processing capabilities with Apache Spark for scalable analytics. Integration with Azure Synapse Analytics facilitated streamlined data warehousing and querying. Azure SQL Database ensured robust data management and querying capabilities. Azure Data Lake Storage supports efficient storage and management of large-scale data. Through Azure DevOps, agile project management and continuous integration for efficient deployment are maintained. This comprehensive Azure ecosystem enabled us to deliver scalable, secure, and performance-driven data solutions tailored to business needs.
 
 
 **Solution Architecture**
