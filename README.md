@@ -5,13 +5,11 @@ Experienced and certified Data Engineer with a strong foundation in designing, i
 
 ## Certifications
 
-- **Microsoft Certified: Azure Data Engineer Associate**
+- [**Microsoft Certified: Azure Data Engineer Associate**](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/Credentials%20-%20suraparajuajith%20%20Microsoft%20Learn.pdf)
+  - Issued: June 2024
+
+- [**Microsoft Certified: Azure Data Fundamentals**](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/Credentials%20-%20suraparajuajith%20%20Microsoft%20Learn.pdf)
   - Issued: May 2024
-
-- **Microsoft Certified: Azure Data Fundamentals**
-  - Issued: April 2024
-
-
 
 ## Contact me
 <a href="mailto:ajith1997raju@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -46,7 +44,19 @@ Experienced and certified Data Engineer with a strong foundation in designing, i
 
 ## Experience </a>
 
-**Data Engineer at Vega Techno Systems**
+**Project 1: ETL Process Engineer**
+
+- In the Banking Domain, tasked with developing and automating a comprehensive monthly reporting system for credit card offers and usage.
+- This initiative aimed to meet client demands for detailed insights into issued credit cards, offers distributed, and user utilization patterns.
+- Leveraging Azure Data Factory, I orchestrated data extraction and transfer from DB2 databases to Azure Data Lake Storage, ensuring seamless integration of customer, credit card, offer, and product information.
+- As the project evolved, I transitioned to Databricks and Apache Spark for advanced data transformations, employing Spark SQL and data frames to enhance efficiency and scalability.
+- Collaborating closely with visualization experts using MicroStrategy, I ensured that insights were communicated effectively.
+- Daily responsibilities included optimizing data pipelines, monitoring performance, and implementing automation using tools like Autosys while maintaining rigorous documentation to support data governance and strategic decision-making.
+- This role underscored my proficiency in leveraging cutting-edge technologies to deliver robust data solutions in a dynamic banking environment.
+
+**Project 2: ETL Process Engineer**
+
+
 
 **Brief Overview**
 
