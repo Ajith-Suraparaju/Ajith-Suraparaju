@@ -1,4 +1,6 @@
 # Hello, I'm Ajith Suraparaju <br/><a href="https://github.com/ajith-suraparaju">Data Engineer</a></h1> 
+[I invite you to review my resume](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/Ajith%20Suraparaju-Data_Engineer.pdf) </a>
+
 Experienced and certified Data Engineer with a strong foundation in designing, implementing, and optimizing batch and streaming data pipelines. Proficient in various technologies, including Python, SQL, Apache Spark, Databricks, and Microsoft Azure. Skilled in ensuring operational stability, data quality, and compliance throughout the data pipeline process. Adept at collaborating with cross-functional teams to deliver data-driven solutions that enhance decision-making processes and drive business growth. 
 
 # Contact me
