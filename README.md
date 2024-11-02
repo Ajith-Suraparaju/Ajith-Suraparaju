@@ -59,7 +59,9 @@ Technologies: SQL, Python, Hive, Hadoop, MongoDB, AWS Lake Formation, AWS QuickS
 •	Automated data quality checks in ETL processes, increasing data accuracy and reducing manual error correction efforts by 40%.
 
 **Data Engineer | Kohler Co.                                         Indiana, USA| May 2023 – December 2023**
+
 Technologies: Python, SQL, Apache Spark, AWS Glue, AWS EMR, Redshift, S3, Power BI, Kafka, Databricks
+
 •	Designed and maintained scalable ETL pipelines using Apache Spark and AWS Glue, reducing data processing times by 40% and increasing data accessibility across departments by 30%.
 •	Engineered data ingestion processes with AWS EMR and Databricks, enabling real-time processing of large datasets and improving data analysis speeds by 50%.
 •	Optimized data warehousing using AWS Redshift and S3 to handle high-volume transactions, achieving a 35% reduction in storage costs while enhancing data retrieval efficiency.
