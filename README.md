@@ -45,11 +45,17 @@ Experienced Data Engineer with 3+ years in building and optimizing data pipeline
 ## Experience </a>
 
 **Big Data Engineer | Pacs                                               Remote, USA | January 2024 - Present**
+
 Technologies: SQL, Python, Hive, Hadoop, MongoDB, AWS Lake Formation, AWS QuickSight
+
 •	Built and optimized big data solutions with Hadoop and Hive, enabling the organization to process and analyze over 1 billion records daily, improving operational efficiency by 25%.
+
 •	Enhanced data governance using AWS Lake Formation, ensuring data privacy and compliance by implementing automated role-based access controls.
+
 •	Integrated and managed NoSQL databases like MongoDB for high-performance data storage, reducing query response times by 30% for high-volume transactions.
+
 •	Created real-time analytics dashboards with AWS QuickSight, delivering key performance indicators to leadership and reducing decision-making time by 20%.
+
 •	Automated data quality checks in ETL processes, increasing data accuracy and reducing manual error correction efforts by 40%.
 
 **Data Engineer | Kohler Co.                                         Indiana, USA| May 2023 – December 2023**
