@@ -63,17 +63,27 @@ Technologies: SQL, Python, Hive, Hadoop, MongoDB, AWS Lake Formation, AWS QuickS
 Technologies: Python, SQL, Apache Spark, AWS Glue, AWS EMR, Redshift, S3, Power BI, Kafka, Databricks</a>
 
 •	Designed and maintained scalable ETL pipelines using Apache Spark and AWS Glue, reducing data processing times by 40% and increasing data accessibility across departments by 30%.</a>
-•	Engineered data ingestion processes with AWS EMR and Databricks, enabling real-time processing of large datasets and improving data analysis speeds by 50%.</a>
+
+•	Engineered data ingestion processes with AWS EMR and Databricks, enabling real-time processing of large datasets and improving data analysis speeds by 50%.</a> 
+
 •	Optimized data warehousing using AWS Redshift and S3 to handle high-volume transactions, achieving a 35% reduction in storage costs while enhancing data retrieval efficiency.</a>
+
 •	Implemented data streaming solutions with Apache Kafka, supporting fault-tolerant, real-time data pipelines with 99.9% uptime, scaling operations for business demands.</a>
+
 •	Developed interactive dashboards in Power BI to visualize key metrics, providing stakeholders with actionable insights and reducing manual reporting time by 60%.</a>
 
 **Jr Data Engineer | MoneyTap                                          Pune, India | June 2020 – July 2022**</a>
+
 Technologies: PySpark, SQL, AWS Redshift, PostgreSQL, Amazon Athena, Kafka, Azure Services </a>
+
 •	Developed real-time data pipelines with PySpark and Amazon Athena, facilitating fraud detection and transaction monitoring with 30% faster alert generation.</a>
+
 •	Implemented secure data warehousing solutions on AWS Redshift and PostgreSQL, achieving a 25% increase in storage efficiency and data security compliance.</a>
+
 •	Deployed and managed event-driven data streams using Apache Kafka on Azure, enabling distributed processing with a 99% reliability rate and reducing data lag.</a>
+
 •	Utilized SQL for complex data transformations, optimizing query performance and enhancing data accessibility for business intelligence applications.</a>
+
 •	Collaborated with cross-functional teams to deliver integrated solutions, aligning data engineering projects with business needs and boosting adoption rates by 15%.</a>
 
 
