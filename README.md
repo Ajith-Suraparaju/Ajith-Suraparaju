@@ -1,5 +1,5 @@
 # Hello, I'm Ajith Suraparaju <br/><a href="https://github.com/ajith-suraparaju">Data Engineer</a></h1> 
-[I invite you to review my resume](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/Ajith_Suraparaju-Data_Engineer.docx) </a>
+[I invite you to review my resume](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/Ajith_Suraparaju-Data_Engineer.pdf) </a>
 
 Experienced Data Engineer with 3+ years in building and optimizing data pipelines using Python, SQL, and big data tools like Apache Spark and Kafka. Improved data processing speeds by 40% through efficient ETL processes. Skilled in cloud platforms such as AWS and Azure and proficient in data warehousing with Redshift and Snowflake. Seeking to apply expertise in a Data Engineering role. </a>
 
