@@ -44,37 +44,37 @@ Experienced Data Engineer with 3+ years in building and optimizing data pipeline
 
 ## Experience </a>
 
-**Big Data Engineer | Pacs                                               Remote, USA | January 2024 - Present**
+**Big Data Engineer | Pacs                                               Remote, USA | January 2024 - Present**</a>
 
-Technologies: SQL, Python, Hive, Hadoop, MongoDB, AWS Lake Formation, AWS QuickSight
+Technologies: SQL, Python, Hive, Hadoop, MongoDB, AWS Lake Formation, AWS QuickSight</a>
 
-•	Built and optimized big data solutions with Hadoop and Hive, enabling the organization to process and analyze over 1 billion records daily, improving operational efficiency by 25%.
+•	Built and optimized big data solutions with Hadoop and Hive, enabling the organization to process and analyze over 1 billion records daily, improving operational efficiency by 25%.</a>
 
-•	Enhanced data governance using AWS Lake Formation, ensuring data privacy and compliance by implementing automated role-based access controls.
+•	Enhanced data governance using AWS Lake Formation, ensuring data privacy and compliance by implementing automated role-based access controls.</a>
 
-•	Integrated and managed NoSQL databases like MongoDB for high-performance data storage, reducing query response times by 30% for high-volume transactions.
+•	Integrated and managed NoSQL databases like MongoDB for high-performance data storage, reducing query response times by 30% for high-volume transactions.</a>
 
-•	Created real-time analytics dashboards with AWS QuickSight, delivering key performance indicators to leadership and reducing decision-making time by 20%.
+•	Created real-time analytics dashboards with AWS QuickSight, delivering key performance indicators to leadership and reducing decision-making time by 20%.</a>
 
-•	Automated data quality checks in ETL processes, increasing data accuracy and reducing manual error correction efforts by 40%.
+•	Automated data quality checks in ETL processes, increasing data accuracy and reducing manual error correction efforts by 40%.</a>
 
-**Data Engineer | Kohler Co.                                         Indiana, USA| May 2023 – December 2023**
+**Data Engineer | Kohler Co.                                         Indiana, USA| May 2023 – December 2023** </a>
 
-Technologies: Python, SQL, Apache Spark, AWS Glue, AWS EMR, Redshift, S3, Power BI, Kafka, Databricks
+Technologies: Python, SQL, Apache Spark, AWS Glue, AWS EMR, Redshift, S3, Power BI, Kafka, Databricks</a>
 
-•	Designed and maintained scalable ETL pipelines using Apache Spark and AWS Glue, reducing data processing times by 40% and increasing data accessibility across departments by 30%.
-•	Engineered data ingestion processes with AWS EMR and Databricks, enabling real-time processing of large datasets and improving data analysis speeds by 50%.
-•	Optimized data warehousing using AWS Redshift and S3 to handle high-volume transactions, achieving a 35% reduction in storage costs while enhancing data retrieval efficiency.
-•	Implemented data streaming solutions with Apache Kafka, supporting fault-tolerant, real-time data pipelines with 99.9% uptime, scaling operations for business demands.
-•	Developed interactive dashboards in Power BI to visualize key metrics, providing stakeholders with actionable insights and reducing manual reporting time by 60%.
+•	Designed and maintained scalable ETL pipelines using Apache Spark and AWS Glue, reducing data processing times by 40% and increasing data accessibility across departments by 30%.</a>
+•	Engineered data ingestion processes with AWS EMR and Databricks, enabling real-time processing of large datasets and improving data analysis speeds by 50%.</a>
+•	Optimized data warehousing using AWS Redshift and S3 to handle high-volume transactions, achieving a 35% reduction in storage costs while enhancing data retrieval efficiency.</a>
+•	Implemented data streaming solutions with Apache Kafka, supporting fault-tolerant, real-time data pipelines with 99.9% uptime, scaling operations for business demands.</a>
+•	Developed interactive dashboards in Power BI to visualize key metrics, providing stakeholders with actionable insights and reducing manual reporting time by 60%.</a>
 
-**Jr Data Engineer | MoneyTap                                          Pune, India | June 2020 – July 2022**
-Technologies: PySpark, SQL, AWS Redshift, PostgreSQL, Amazon Athena, Kafka, Azure Services
-•	Developed real-time data pipelines with PySpark and Amazon Athena, facilitating fraud detection and transaction monitoring with 30% faster alert generation.
-•	Implemented secure data warehousing solutions on AWS Redshift and PostgreSQL, achieving a 25% increase in storage efficiency and data security compliance.
-•	Deployed and managed event-driven data streams using Apache Kafka on Azure, enabling distributed processing with a 99% reliability rate and reducing data lag.
-•	Utilized SQL for complex data transformations, optimizing query performance and enhancing data accessibility for business intelligence applications.
-•	Collaborated with cross-functional teams to deliver integrated solutions, aligning data engineering projects with business needs and boosting adoption rates by 15%.
+**Jr Data Engineer | MoneyTap                                          Pune, India | June 2020 – July 2022**</a>
+Technologies: PySpark, SQL, AWS Redshift, PostgreSQL, Amazon Athena, Kafka, Azure Services </a>
+•	Developed real-time data pipelines with PySpark and Amazon Athena, facilitating fraud detection and transaction monitoring with 30% faster alert generation.</a>
+•	Implemented secure data warehousing solutions on AWS Redshift and PostgreSQL, achieving a 25% increase in storage efficiency and data security compliance.</a>
+•	Deployed and managed event-driven data streams using Apache Kafka on Azure, enabling distributed processing with a 99% reliability rate and reducing data lag.</a>
+•	Utilized SQL for complex data transformations, optimizing query performance and enhancing data accessibility for business intelligence applications.</a>
+•	Collaborated with cross-functional teams to deliver integrated solutions, aligning data engineering projects with business needs and boosting adoption rates by 15%.</a>
 
 
 **Brief Overview**
