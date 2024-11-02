@@ -5,7 +5,7 @@ Experienced and certified Data Engineer with a strong foundation in designing, i
 
 ## Certifications
 
-- [**Microsoft Certified: Azure Data Engineer Associate**](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/Credentials%20-%20suraparajuajith%20%20Microsoft%20Learn.pdf)
+- [**AWS Certified: Data Engineer Associate**](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/AWS%20Certified%20Data%20Engineer%20-%20Associate%20certificate.pdf)
   - Issued: June 2024
 
 - [**Microsoft Certified: Azure Data Fundamentals**](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/Credentials%20-%20suraparajuajith%20%20Microsoft%20Learn.pdf)
