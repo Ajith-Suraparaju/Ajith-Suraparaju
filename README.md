@@ -6,7 +6,7 @@ Experienced Data Engineer with 3+ years in building and optimizing data pipeline
 ## Certifications
 
 - [**AWS Certified: Data Engineer Associate**](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/AWS%20Certified%20Data%20Engineer%20-%20Associate%20certificate.pdf)
-  - Issued: June 2024
+  - Issued: September 2024
 
 - [**Microsoft Certified: Azure Data Fundamentals**](https://github.com/Ajith-Suraparaju/Ajith-Suraparaju/blob/main/Credentials%20-%20suraparajuajith%20%20Microsoft%20Learn.pdf)
   - Issued: May 2024
